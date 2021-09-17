@@ -31,3 +31,4 @@ The results of the ttest for Lot 1 are presented below. Here again we fail to re
 
 The results of the ttest for Lot 2 are presented below. Here again we fail to reject the null and conclude that the sample mean PSI for Lot 2 is not statistically significantly different from the population mean of 1500 PSI.![image](https://user-images.githubusercontent.com/81202523/133706483-ce11d350-fb6f-4df5-b31d-3c6d6431e1d7.png)
 
+![pic6](https://user-images.githubusercontent.com/81202523/133706507-b0fdb870-2a60-4dda-8eeb-d48f7466e82b.jpg)
