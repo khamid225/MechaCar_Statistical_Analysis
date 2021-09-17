@@ -32,3 +32,12 @@ The results of the ttest for Lot 1 are presented below. Here again we fail to re
 The results of the ttest for Lot 2 are presented below. Here again we fail to reject the null and conclude that the sample mean PSI for Lot 2 is not statistically significantly different from the population mean of 1500 PSI.![image](https://user-images.githubusercontent.com/81202523/133706483-ce11d350-fb6f-4df5-b31d-3c6d6431e1d7.png)
 
 ![pic6](https://user-images.githubusercontent.com/81202523/133706507-b0fdb870-2a60-4dda-8eeb-d48f7466e82b.jpg)
+
+The results of the ttest for Lot 3 are presented below. In this case we do reject the null hypothesis and conclude that there is a statistically significant difference between the mean PSI of Lot 3, which is 1494.14, and the population mean of 1500 PSI. 
+
+![pic7](https://user-images.githubusercontent.com/81202523/133706560-68ea2570-fc6f-414c-81de-b3323e957b95.jpg)
+
+Deliverable 4
+
+The study I would design would be whether the MechaCar costs less than the competition for the same make, year, and model. Cost would be measured by the average dollar amount of the sample of MechaCar cars vs. the cost of a paired sample of competition cars based on the publicly available Kelly Blue Book values. The null hypothesis of the study would be that there is no difference in the cost of MechaCar vs. the competitions cars and the alternative hypothesis is that MechaCar cost statistically significantly less than the competition. To test this hypothesis I would use a paired samples t-test of the averages of the MechaCar prices vs. the competition prices. In order to do this test I would need a sample of car prices for the MechaCar vs. the competition.  
+
