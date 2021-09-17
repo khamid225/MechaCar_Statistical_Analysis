@@ -17,3 +17,9 @@ The summary results of pounds per square inch (PSI) for the Suspension Coil data
 
 
 ![pic3](https://user-images.githubusercontent.com/81202523/133706389-8390b41d-1132-4f9b-a4fb-b343209872f8.jpg)
+
+Deliverable 3
+
+The results of the ttest for the full sample is presented below. It can be seen that the p-value is above .05, we therefore fail to reject the null hypothesis and conclude that the sample mean PSI, which is 1498.78, is not statistically significantly different from the population mean of 1500 PSI.  
+
+![pic4](https://user-images.githubusercontent.com/81202523/133706432-e7ea5f2a-4a1c-47e7-b07c-3de4a0c5fe20.jpg)
