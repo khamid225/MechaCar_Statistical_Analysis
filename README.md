@@ -23,3 +23,8 @@ Deliverable 3
 The results of the ttest for the full sample is presented below. It can be seen that the p-value is above .05, we therefore fail to reject the null hypothesis and conclude that the sample mean PSI, which is 1498.78, is not statistically significantly different from the population mean of 1500 PSI.  
 
 ![pic4](https://user-images.githubusercontent.com/81202523/133706432-e7ea5f2a-4a1c-47e7-b07c-3de4a0c5fe20.jpg)
+
+The results of the ttest for Lot 1 are presented below. Here again we fail to reject the null and conclude that the sample mean PSI for Lot 1 is not statistically significantly different from the population mean of 1500 PSI.
+
+
+![pic5](https://user-images.githubusercontent.com/81202523/133706469-35eeb2a8-7e17-4290-8316-32a9ccdc0e81.jpg)
