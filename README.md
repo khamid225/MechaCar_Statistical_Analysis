@@ -14,3 +14,6 @@ Deliverable 2
 The summary results of pounds per square inch (PSI) for the Suspension Coil data can be seen below. The average PSI is 1499, the median is 1500, the variance is 62.3, and the Standard Deviation is 7.89. The same statistics are also broken down by lot in the second table. The second table demonstrates that the variance of the suspension coils for Lot 3 exceeds 100 pounds per square inch, but not for the first two lots. 
 
 ![pic2](https://user-images.githubusercontent.com/81202523/133706361-23116449-2e21-48bb-96e2-1d9d7363fcdb.jpg)
+
+
+![pic3](https://user-images.githubusercontent.com/81202523/133706389-8390b41d-1132-4f9b-a4fb-b343209872f8.jpg)
