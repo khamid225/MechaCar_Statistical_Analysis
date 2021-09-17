@@ -6,3 +6,11 @@ The results of the regression model can be found below. It can be seen that the 
 
 
 ![Screen Shot 2021-09-16 at 8 13 18 PM](https://user-images.githubusercontent.com/81202523/133706284-f23a8661-d0b4-4fe2-9fd8-158a128728f1.png)
+
+
+
+Deliverable 2
+
+The summary results of pounds per square inch (PSI) for the Suspension Coil data can be seen below. The average PSI is 1499, the median is 1500, the variance is 62.3, and the Standard Deviation is 7.89. The same statistics are also broken down by lot in the second table. The second table demonstrates that the variance of the suspension coils for Lot 3 exceeds 100 pounds per square inch, but not for the first two lots. 
+
+![image](https://user-images.githubusercontent.com/81202523/133706304-73daf203-e45b-45a3-a777-45f7799776df.png)
